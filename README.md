@@ -1,1 +1,1 @@
-# Repository For Testing Growthub's Functionality. Nice
+# Repository For Testing Growthub's Functionality.
